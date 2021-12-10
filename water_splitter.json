@@ -1,0 +1,35 @@
+{
+    "parameterSets": {
+        "v1": {
+            "barb_length_mul": "0.3",
+            "barb_max_mul": "1.1",
+            "barb_min_mul": "0.7",
+            "draw_barb": "true",
+            "outlet_count": "4",
+            "outlet_inner_diam": "3",
+            "outlet_length": "9",
+            "outlet_outer_diam": "5",
+            "outlet_spacing": "2",
+            "rect_height_offset": "2",
+            "rect_wall_thickness": "6",
+            "rect_width": "10",
+            "show_inside": "false"
+        },
+        "design default values": {
+            "barb_length_mul": "0.3",
+            "barb_max_mul": "1.1",
+            "barb_min_mul": "0.7",
+            "draw_barb": "true",
+            "outlet_count": "4",
+            "outlet_inner_diam": "4",
+            "outlet_length": "9",
+            "outlet_outer_diam": "5",
+            "outlet_spacing": "2",
+            "rect_height_offset": "2",
+            "rect_wall_thickness": "6",
+            "rect_width": "10",
+            "show_inside": "false"
+        }
+    },
+    "fileFormatVersion": "1"
+}
